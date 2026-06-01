@@ -38,3 +38,31 @@ credit-score-classification/
 │   └── presentation.pdf
 └── data/
     └── README.md
+
+Models
+
+The following models are implemented and evaluated:
+
+K-Nearest Neighbors
+Softmax Regression
+Crammer-Singer SVM
+KMeans
+Gaussian Mixture Model
+Support Vector Regression
+Ridge Regression
+Results
+
+The models achieved approximately 70% accuracy on the credit score classification task. LDA generally improved model performance compared to using the original feature space.
+
+How to Run
+Clone this repository:
+git clone https://github.com/your-username/credit-score-classification.git
+cd credit-score-classification
+Install dependencies:
+pip install -r requirements.txt
+Download the dataset from Kaggle and place it in the data/ directory.
+Run the notebook:
+jupyter notebook notebooks/CreditScoreClassification.ipynb
+Reports
+Full report: reports/report.pdf
+Presentation slides: reports/presentation.pdf
