@@ -95,8 +95,3 @@ jupyter notebook notebooks/CreditScoreClassification.ipynb
 * Full report: `reports/report.pdf`
 * Presentation slides: `reports/presentation.pdf`
 
-## Team Members
-
-* Phan Nguyễn Mạnh Cường
-* Nguyễn Tiến Đạt
-* Hồ Trọng Hiếu
